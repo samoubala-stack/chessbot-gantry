@@ -47,4 +47,7 @@ Please note that before running the program you need to deploy the firmware on t
 The code for each ardunio's firmware is under the folder titled "ardunio".
 
 If you're interested in seeing my CAD design for the gantry assembly, just check the link below:
-https://cad.onshape.com/documents/a85c4bd0118ea666f68b01de/w/459a632a283f3eacaf84218c/e/0f83c1c259f60a09de03d67b?renderMode=0&uiState=693647858171a2be9486a6e6
+https://cad.onshape.com/documents/51d0f3b84eea7fc07b3f1cca/w/85c02975dd9b1a8164abf66b/e/5872399e0b1451f6f41b2e4a?renderMode=0&uiState=69364e048171a2be9486bcbe
+
+Finally, below is a link to an unlisted youtube video which serves as the project overview:
+https://youtu.be/27eNOatXeEQ
