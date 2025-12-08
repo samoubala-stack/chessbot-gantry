@@ -37,6 +37,8 @@ To install the libraries for the code just type from a terminal:
 
 Note - if your running on windows your ports will be something like "COM3" or "COM4", whereas if you're running on mac or linux your ports will be something like "/dev/tty...", be sure to update the port ids in the file index.ts before running the program.
 
+To list serial ports in macos use the command: ls /dev/tty.*
+
 Then to execute the program just type from a terminal:
 'npm start'
 
