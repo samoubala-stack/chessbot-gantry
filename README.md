@@ -42,5 +42,7 @@ Then to execute the program just type from a terminal:
 
 Please note that before running the program you need to deploy the firmware on the arduinos. This can be done via their browser based IDE: https://www.arduino.cc/en/software/
 
-
 The code for each ardunio's firmware is under the folder titled "ardunio".
+
+If you're interested in seeing my CAD design for the gantry assembly, just check the link below:
+https://cad.onshape.com/documents/a85c4bd0118ea666f68b01de/w/459a632a283f3eacaf84218c/e/0f83c1c259f60a09de03d67b?renderMode=0&uiState=693647858171a2be9486a6e6

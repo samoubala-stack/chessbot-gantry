@@ -8,8 +8,10 @@
 import { SerialPort } from 'serialport';
 import readline from 'readline';
 
-const moverPort = new SerialPort({ path: 'COM4', baudRate: 115200, autoOpen: true});
-const pickerPort = new SerialPort({ path: 'COM3', baudRate: 115200, autoOpen: true});
+// const moverPort = new SerialPort({ path: 'COM4', baudRate: 115200, autoOpen: true});
+// const pickerPort = new SerialPort({ path: 'COM3', baudRate: 115200, autoOpen: true});
+const moverPort = new SerialPort({ path: '/dev/tty.usbmodem11301', baudRate: 115200, autoOpen: true});
+const pickerPort = new SerialPort({ path: '/dev/tty.usbmodem11201', baudRate: 115200, autoOpen: true});
 
 const rl = readline.createInterface({
   input: process.stdin,
